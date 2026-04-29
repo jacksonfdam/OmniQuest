@@ -1,0 +1,11 @@
+node_modules/
+public/
+.DS_Store
+*.log
+.vercel
+.env
+.env.local
+.idea/
+.vscode/
+.git_old/
+.git_stale_*/
